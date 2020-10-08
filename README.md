@@ -6,7 +6,7 @@
 [![npm version](https://badge.fury.io/js/%40speechly%2Freact-client.svg)](https://badge.fury.io/js/%40speechly%2Freact-client)
 [![License](http://img.shields.io/:license-mit-blue.svg)](LICENSE)
 
-This repository contains source code for the React client for Speechly SLU API. Speechly allows you to easily build applications with voice-enabled UIs.
+This repository contains source code for the React client for [Speechly](https://www.speechly.com) SLU API. Speechly allows you to easily build applications with voice-enabled UIs.
 
 ## Usage
 
