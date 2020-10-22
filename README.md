@@ -1,9 +1,10 @@
 <h1 align="center">
-  <a href="https://www.speechly.com/"><img src="https://www.speechly.com/images/logo.png" height="100" alt="Speechly"></a>
+<a href="https://www.speechly.com/?utm_source=github&utm_medium=react-client&utm_campaign=header"><img src="https://www.speechly.com/images/logo.png" height="100" alt="Speechly"></a>
 </h1>
 <h2 align="center">
-  Complete your touch user interface with voice
+Complete your touch user interface with voice
 </h2>
+
 
   [Speechly website](https://www.speechly.com/?utm_source=github&utm_medium=react-client&utm_campaign=header)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Docs](https://www.speechly.com/docs/?utm_source=github&utm_medium=react-client&utm_campaign=header)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Blog](https://www.speechly.com/blog/?utm_source=github&utm_medium=react-client&utm_campaign=header)
 
