@@ -5,7 +5,7 @@
   Complete your touch user interface with voice
 </h2>
 
-  [Speechly website](https://www.speechly.com/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Docs](https://www.speechly.com/docs/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Blog](https://www.speechly.com/blog/)
+  [Speechly website](https://www.speechly.com/?utm_source=github&utm_medium=react-client&utm_campaign=header)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Docs](https://www.speechly.com/docs/?utm_source=github&utm_medium=react-client&utm_campaign=header)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Blog](https://www.speechly.com/blog/?utm_source=github&utm_medium=react-client&utm_campaign=header)
 
 # React client for Speechly SLU API
 
@@ -13,9 +13,9 @@
 [![npm version](https://badge.fury.io/js/%40speechly%2Freact-client.svg)](https://badge.fury.io/js/%40speechly%2Freact-client)
 [![License](http://img.shields.io/:license-mit-blue.svg)](LICENSE)
 
-This repository contains source code for the React client for [Speechly](https://www.speechly.com/) SLU API. Speechly allows you to easily build applications with voice-enabled UIs.
+This repository contains source code for the React client for [Speechly](https://www.speechly.com/?utm_source=github&utm_medium=react-client&utm_campaign=text) SLU API. Speechly allows you to easily build applications with voice-enabled UIs.
 
-Check out [Speechly documentation](https://www.speechly.com/docs/client-libraries/react-client/) for a tutorial on how to build a voice filtering app using this client.
+Check out [Speechly documentation](https://www.speechly.com/docs/client-libraries/react-client/?utm_source=github&utm_medium=react-client&utm_campaign=text) for a tutorial on how to build a voice filtering app using this client.
 
 ## About Speechly
 
