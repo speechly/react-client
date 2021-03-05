@@ -4,9 +4,6 @@
 
 ```ts
 
-import { Client } from '@speechly/browser-client';
-import { ClientOptions } from '@speechly/browser-client';
-import { ClientState } from '@speechly/browser-client';
 import { Entity } from '@speechly/browser-client';
 import { Intent } from '@speechly/browser-client';
 import { default as React_2 } from 'react';
@@ -65,9 +62,15 @@ export class SpeechProvider extends React_2.Component<SpeechProviderProps, Speec
     // (undocumented)
     render(): JSX.Element;
     // (undocumented)
+    readonly startContext: () => Promise<void>;
+    // (undocumented)
+    readonly stopContext: () => Promise<void>;
+    // (undocumented)
     readonly toggleRecording: () => Promise<void>;
 }
 
+// Warning: (ae-forgotten-export) The symbol "ClientOptions" needs to be exported by the entry point index.d.ts
+//
 // @public
 export interface SpeechProviderProps extends ClientOptions {
     disableTenative?: boolean;
