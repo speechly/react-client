@@ -4,9 +4,12 @@
 
 ```ts
 
-import { default } from 'react';
+import { Client } from '@speechly/browser-client';
+import { ClientOptions } from '@speechly/browser-client';
+import { ClientState } from '@speechly/browser-client';
 import { Entity } from '@speechly/browser-client';
 import { Intent } from '@speechly/browser-client';
+import { default as React_2 } from 'react';
 import { Segment as SpeechSegment } from '@speechly/browser-client';
 import { Word } from '@speechly/browser-client';
 
@@ -18,7 +21,7 @@ export { Entity }
 export { Intent }
 
 // @public
-export const SpeechContext: default.Context<SpeechContextState>;
+export const SpeechContext: React_2.Context<SpeechContextState>;
 
 // @public
 export interface SpeechContextState {
@@ -51,7 +54,7 @@ export type SpeechIntent = {
 // Warning: (ae-forgotten-export) The symbol "SpeechProviderState" needs to be exported by the entry point index.d.ts
 //
 // @public
-export class SpeechProvider extends default.Component<SpeechProviderProps, SpeechProviderState> {
+export class SpeechProvider extends React_2.Component<SpeechProviderProps, SpeechProviderState> {
     constructor(props: SpeechProviderProps);
     // (undocumented)
     componentDidUpdate(prevProps: SpeechProviderProps): Promise<void>;
@@ -69,8 +72,6 @@ export class SpeechProvider extends default.Component<SpeechProviderProps, Speec
     readonly toggleRecording: () => Promise<void>;
 }
 
-// Warning: (ae-forgotten-export) The symbol "ClientOptions" needs to be exported by the entry point index.d.ts
-//
 // @public
 export interface SpeechProviderProps extends ClientOptions {
     disableTenative?: boolean;
