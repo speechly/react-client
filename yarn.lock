@@ -138,10 +138,10 @@
     colors "~1.2.1"
     string-argv "~0.3.1"
 
-"@speechly/browser-client@^1.0.6":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@speechly/browser-client/-/browser-client-1.0.6.tgz#ae27ab2b1a266e8b3e7a7499f4e5413e0e3fa183"
-  integrity sha512-VRUfzmUeKk+LBcnjaEEicR4WC9XOsdLXNmYx2OxM4n/OmJ1tZQWQfo1GKkjoj9K8eimFnEh/ahSwxpGsxUXeuA==
+"@speechly/browser-client@^1.0.8":
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@speechly/browser-client/-/browser-client-1.0.8.tgz#4b0547cdfda9ca68c3bfe1e46bf4025fc6018b4d"
+  integrity sha512-odCj3jiVxi22dQLDLQRbUW5Rv22TN9AggnMeDOtKb+s3vWyYSm9B5LQPBkaKkIkluAflX6T4GrixeWkVpUHcKg==
   dependencies:
     async-retry "^1.3.1"
     base-64 "^0.1.0"
