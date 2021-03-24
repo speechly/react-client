@@ -223,6 +223,7 @@ export class SpeechProvider extends React.Component<SpeechProviderProps, SpeechP
     const { client, clientState } = this.state
     this.setState({ appId })
     if (clientState === ClientState.Recording) {
+      // @typescript-eslint/no-floating-promises
       client.switchContext(appId)
     }
   }
